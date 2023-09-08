@@ -35,4 +35,28 @@ Untracked files:
     answers.md
 
 Answer 6: 
+On branch main
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+    new file:   README.md
+    new file:   answers.md
+
+Answer 7: 
+On branch main
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+    modified:   answers.md
+    
+Answer 8: 
+commit 05cfe1012f8a6952221042ffb813deb87443c137 (HEAD -> main)
+Author: Gavin <gavinbrodie05@gmail.com>
+Date:   Fri Sep 8 14:31:19 2023 -0400
+
+    Initial commit
+
+Answer 9: 
 
