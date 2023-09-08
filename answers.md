@@ -59,4 +59,15 @@ Date:   Fri Sep 8 14:31:19 2023 -0400
     Initial commit
 
 Answer 9: 
+On branch main
+Your branch is up to date with 'origin/main'.
 
+nothing to commit, working tree clean
+
+Answer 10: The changed I made online were are not reflected in my local copy.
+
+Answer 11: The push was regected because the repo has work that I do not have in my local copy, it suggests pulling first.
+
+Answer 12: The line with the class info I added online is now in my local copy.
+
+Answer 13: .        ..        .git        .gitignore    README.md
